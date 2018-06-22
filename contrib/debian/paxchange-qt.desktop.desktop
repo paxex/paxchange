@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PAXEXcoin
+Comment=PAXEXcoin P2P Cryptocurrency
+Exec=paxchange-qt %u
+Terminal=false
+Type=Application
+Icon=paxchange128
+MimeType=x-scheme-handler/paxchange;
+Categories=Office;Finance;
+Name[en_US]=paxchange-qt.desktop

@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_paxchange.o: qt/qrc_paxchange.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

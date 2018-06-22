@@ -1,0 +1,26 @@
+# /etc/conf.d/paxchanged: config file for /etc/init.d/paxchanged
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/paxchange/paxchange.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/paxchanged"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/paxchanged.pid"
+
+# Where to write paxchanged data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/paxchanged"
+
+# User and group to own paxchanged process
+#BITCOIND_USER="paxchange"
+#BITCOIND_GROUP="paxchange"
+
+# Path to paxchanged executable
+#BITCOIND_BIN="/usr/bin/paxchanged"
+
+# Nice value to run paxchanged under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
