@@ -27,7 +27,7 @@ Staking Time: 24 hours
 ### Coin Specs
 | **Coin Head**               | **Value**        |
 |-----------------------------|------------------|
-| Block Time                  | 120 Seconds       |
+| Block Time                  | 60 Seconds       |
 | Max Coin Supply (PoW Phase) | 1,500,000 PAXEX  |
 | Max Coin Supply (PoS Phase) | 100,000,000 PAXEX|
 | Premine                     | 1,500,000 PAXEX  |
