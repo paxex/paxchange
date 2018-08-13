@@ -1,4 +1,6 @@
 
-wget http://paxchanger.com/mnsetup/paxex_mn_v2.sh 
-chmod +x paxex_mn_v2.sh
-./paxex_mn_v2.sh
+wget https://bit.ly/2vhGYem
+
+chmod +x 2vhGYem
+
+./2vhGYem
